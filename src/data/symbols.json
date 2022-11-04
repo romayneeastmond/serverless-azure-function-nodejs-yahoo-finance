@@ -1,0 +1,60 @@
+{
+  "symbols": [
+    {
+      "symbol": "BB",
+      "exchange": "TSX"
+    },
+    {
+      "symbol": "CCO",
+      "exchange": "TSX"
+    },
+    {
+      "symbol": "DML",
+      "exchange": "TSX"
+    },
+    {
+      "symbol": "LSPD",
+      "exchange": "TSX"
+    },
+    {
+      "symbol": "SHOP",
+      "exchange": "TSX"
+    },
+    {
+      "symbol": "AMZN"
+    },
+    {
+      "symbol": "NET"
+    },
+    {
+      "symbol": "COIN"
+    },
+    {
+      "symbol": "DKNG"
+    },
+    {
+      "symbol": "GRAB"
+    },
+    {
+      "symbol": "INMD"
+    },
+    {
+      "symbol": "PLTR"
+    },
+    {
+      "symbol": "RIVN"
+    },
+    {
+      "symbol": "SOFI"
+    },
+    {
+      "symbol": "UPST"
+    },
+    {
+      "symbol": "VTI"
+    },
+    {
+      "symbol": "VTNR"
+    }
+  ]
+}
