@@ -26,7 +26,7 @@ Complete the following steps:
 
 1. The Serverless Azure Function **must be Linux** based.
 
-1. In the **.vscode/settings.json** file remove the **postDeployTask** and **postDeployTask** definitions.
+1. In the **.vscode/settings.json** file remove the **postDeployTask** and **preDeployTask** definitions.
 
 1. In the **.vscode/settings.json** file add a definition for **"azureFunctions.scmDoBuildDuringDeployment": true** or alternatively navigate to the Settings > Configuration > Application settings blade from within the Azure portal and create a setting for **SCM_DO_BUILD_DURING_DEPLOYMENT** set to **true**
 
