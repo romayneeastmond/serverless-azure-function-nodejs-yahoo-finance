@@ -32,7 +32,7 @@ Complete the following steps:
 
 1. In the Azure portal navigate to the Settings > Configuration > Application settings blade and create a setting for **PLAYWRIGHT_BROWSERS_PATH** set to **0**.
 
-1. In the **.funcignore** file add an entry for **nodes_modules** since the packages will be installed on the server during deployment.
+1. In the **.funcignore** file add an entry for **node_modules** since the packages will be installed on the server during deployment.
 
 1. In the Azure Portal define any CORS entries in the API > CORS blade.
 
